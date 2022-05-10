@@ -1,0 +1,1 @@
+Crie um script que permita o usuário digitar vários números. Para cada número digitado, o script deve verificar se ele é um número triangular. Dica: um número é triangular quando é resultado do produto de três números consecutivos. Exemplo: 2 x 3 x 4 = 24. O script deve se encerrar quando o número 0 (zero) for digitado.
